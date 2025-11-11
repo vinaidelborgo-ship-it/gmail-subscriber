@@ -1,0 +1,14 @@
+{
+  "name": "gmail-subscriber-backend",
+  "version": "1.0.0",
+  "description": "A simple backend service to receive Google Pub/Sub notifications for Cloud Run.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
